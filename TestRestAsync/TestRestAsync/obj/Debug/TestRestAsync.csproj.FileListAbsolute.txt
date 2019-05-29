@@ -1,0 +1,10 @@
+C:\Aplicaciones\DotNet\Examples\TestRestAsync\TestRestAsync\TestRestAsync\bin\Debug\TestRestAsync.exe.config
+C:\Aplicaciones\DotNet\Examples\TestRestAsync\TestRestAsync\TestRestAsync\bin\Debug\TestRestAsync.exe
+C:\Aplicaciones\DotNet\Examples\TestRestAsync\TestRestAsync\TestRestAsync\bin\Debug\TestRestAsync.pdb
+C:\Aplicaciones\DotNet\Examples\TestRestAsync\TestRestAsync\TestRestAsync\obj\Debug\TestRestAsync.csprojAssemblyReference.cache
+C:\Aplicaciones\DotNet\Examples\TestRestAsync\TestRestAsync\TestRestAsync\obj\Debug\TestRestAsync.Form1.resources
+C:\Aplicaciones\DotNet\Examples\TestRestAsync\TestRestAsync\TestRestAsync\obj\Debug\TestRestAsync.Properties.Resources.resources
+C:\Aplicaciones\DotNet\Examples\TestRestAsync\TestRestAsync\TestRestAsync\obj\Debug\TestRestAsync.csproj.GenerateResource.cache
+C:\Aplicaciones\DotNet\Examples\TestRestAsync\TestRestAsync\TestRestAsync\obj\Debug\TestRestAsync.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\DotNet\Examples\TestRestAsync\TestRestAsync\TestRestAsync\obj\Debug\TestRestAsync.exe
+C:\Aplicaciones\DotNet\Examples\TestRestAsync\TestRestAsync\TestRestAsync\obj\Debug\TestRestAsync.pdb
