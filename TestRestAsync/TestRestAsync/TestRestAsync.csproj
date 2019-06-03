@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\UtilJson.cs" />
     <Compile Include="Common\UtilRest.cs" />
     <Compile Include="Enums\ResponseDMCashdroEnum.cs" />
     <Compile Include="Form1.cs">
